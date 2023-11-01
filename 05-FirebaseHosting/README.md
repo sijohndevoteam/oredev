@@ -1,1 +1,1 @@
-# Cloud Storage Hosting
+# Firebase Hosting
