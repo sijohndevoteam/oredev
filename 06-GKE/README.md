@@ -9,3 +9,4 @@ m1-terraform-provider-helper install hashicorp/template -v v2.2.0
 terraform init
 
 Updating after clearing
+From Workstation
