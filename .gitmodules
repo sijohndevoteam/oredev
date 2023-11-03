@@ -1,0 +1,3 @@
+[submodule "06-GKE/06-GKE/terraform-ecommerce-microservices-on-gke"]
+	path = 06-GKE/06-GKE/terraform-ecommerce-microservices-on-gke
+	url = https://github.com/sijohndevoteam/oredev.git
